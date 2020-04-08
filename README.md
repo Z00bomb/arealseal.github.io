@@ -1,2 +1,2 @@
 # site
-my site.
+https://arealseal.github.io
