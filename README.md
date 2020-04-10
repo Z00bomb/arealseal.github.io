@@ -1,3 +1,3 @@
 # site
 https://arealseal.github.io
-This is my website. Pretty cool, eh?
+This is my website. Pretty cool, eh? yes
